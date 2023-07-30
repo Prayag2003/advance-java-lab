@@ -1,0 +1,66 @@
+# Compiled output
+/target/
+/bin/
+/build/
+
+# IDE files (Eclipse)
+.classpath
+.project
+.settings/
+
+# IDE files (IntelliJ IDEA)
+.idea/
+
+# Maven specific files
+mvnw
+mvnw.cmd
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Log files
+*.log
+
+# Build reports and other generated files
+*.class
+*.war
+*.ear
+*.jar
+*.zip
+
+# Dependency directories
+/lib/
+/libs/
+
+# Miscellaneous
+*.DS_Store
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+
+# Environment-specific files
+*.properties
+*.yml
+*.yaml
+
+# Application configuration files with sensitive information
+application.properties
+application.yml
+application.yaml
+
+# Build and temporary files
+build/
+tmp/
+temp/
+*.tmp
+*.log
+*.bak
+
+# Eclipse and Intellij IDEA specific files
+.metadata/
+*.tmp
+*.bak
+*.log
